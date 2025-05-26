@@ -1,6 +1,3 @@
-# ai-risk-scoping-tool
-# AI Security Risk Assessment Tool
-
 <div align="center">
   <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1748301026/ai-risk-tool_mkopfj.png" alt="AI Risk Assessment Tool Screenshot" width="800"/>
 </div>
