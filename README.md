@@ -94,8 +94,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Integration with security tools and frameworks
 - [ ] Advanced risk scoring and analytics
 - [ ] Compliance mapping for specific regulations
-
-<div align="center">
-  <p>Built with ❤️ for AI security practitioners</p>
-  <p>Based on the AWS Generative AI Security Scoping Matrix</p>
-</div>
