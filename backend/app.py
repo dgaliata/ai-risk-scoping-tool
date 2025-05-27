@@ -8,7 +8,9 @@ app = FastAPI(title="AI Risk Assessment API", description="API for the AI Risk A
 # Add CORS middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, replace with your frontend URL
+    allow_origins=["http://localhost:3000",
+                   "https://ai-risk-scoping-tool-frontend.onrender.com"
+                   ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
