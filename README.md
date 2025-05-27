@@ -2,6 +2,8 @@
   <img src="https://res.cloudinary.com/dcu6gtw2y/image/upload/v1748301026/ai-risk-tool_mkopfj.png" alt="AI Risk Assessment Tool Screenshot" width="800"/>
 </div>
 
+[AI Security Risk Assessment Tool](https://ai-risk-scoping-tool-frontend.onrender.com/)
+
 A web-based tool for assessing security risks in generative AI deployments, based on the AWS Generative AI Security Scoping Matrix. This tool helps organizations identify and address security considerations across different AI implementation approaches.
 
 ## Features
