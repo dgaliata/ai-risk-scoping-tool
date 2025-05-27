@@ -8,7 +8,7 @@ const RiskAssessmentTool = () => {
   const [recommendation, setRecommendation] = useState(null);
   const [loading, setLoading] = useState(false);
 
-  const API_BASE = 'http://localhost:8000'; // Change this to your deployed backend URL
+  const API_BASE = process.env.REACT_APP_API_URL ||'http://localhost:8000';
 
   // Fetch scopes and disciplines on component mount
   useEffect(() => {
